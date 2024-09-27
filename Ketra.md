@@ -1,5 +1,5 @@
 #PC
-## *Ketrania Valenzia Adriaste Uth Estide VII* 
+## *Ketrania Valenzia Adriaste Uth Viharin VII* 
 
 Name: **Ketra** :) 
 
@@ -45,6 +45,7 @@ Ketra verlässt kurz daraufhin Solanthus ohne Erlaubnis zusammen mit ihrem Pferd
 #### Kurzfristig
  - Ich habe kein Geld, bin dreckig, müde und habe gehört es gibt Essen beim Begräbnis :)
  - Der Tote war ein guter Freund von meiner Lehrerin Mikka Bravecrest, nach welcher ich suche. Ich erhoffe mir beim Begräbnis infos über ihren Aufenthaltsort zu finden
+ - Ich wage mich zu erinnern, dass in dem Dorf Vogler in der das Begräbnis stattfindet eine entfernte Tante von mir, Becklin Uth Viharin, (ebenfalls Knight of Solamnia) stationiert ist.
 
 #### Langfristig
  - Zu beweisen, dass ich den Ritter Titel verdiene. Technically habe ich nähmlich den "Ritter" Titel noch nicht erhalten
@@ -93,7 +94,7 @@ Nevertheless he considers the fact that she has abandoned her post as a trainee 
 
 
 #### Familie
-Die Uth Estide Familie ist eine lang zurückreichende Familie von Kleinunternehmen. Sie besitzen verschiedene kleine Geschäfte in mehreren Orten und finanzieren einige fahrende Händler, welche Güter ins Ausland exportieren oder intern verkaufen. Die Familie handelt vor allem in Stoffen, Kleidung und in seltenen Fällen auch Lebensmitteln. 
+Die Uth Viharin Familie ist eine lang zurückreichende Familie von Kleinunternehmen. Sie besitzen verschiedene kleine Geschäfte in mehreren Orten und finanzieren einige fahrende Händler, welche Güter ins Ausland exportieren oder intern verkaufen. Die Familie handelt vor allem in Stoffen, Kleidung und in seltenen Fällen auch Lebensmitteln. 
 
 **Miro**: Vater und ehemaliges Familienoberhaupt (retired). Unglaublich charismatischer Mann und ehrlich bis zu seinem Kern. Manche würden ihn naiv nennen, was oft auch stimmen mag, aber seine Gutmütige Art hat ihm viele Loyale Businesspartner und Freunde eingehandelt.
 Als er in seinen jungen Jahren eine Affäre mit **Odessa**, einer seiner Dienstmädchen einging, legte er eigenhändig die Sache offen und versuchte die Situation zu lösen. <br>
