@@ -14,12 +14,12 @@ Name: **Ketra** :)
 - **Mein Wappen hat eine blaue Burgmauer mit rotem himmel, im vordergrund liegt eine Spindel mit weißem Garn. An der Spitze ein einziger Tropfen Blut**
 
 ### Herkunft: 
-**Stadt Hargoth**, wir haben eine kleine Estate, sehr nahe an der Stadt. 
-Mein Vater und Lord Hargoth sind seit längerem Freunde und spielen jedes Wochenende um die gleiche Uhrzeit Boccia (Ballspiel) in unserem Hinterhof.
+**Stadt [[Hargoth]], wir haben eine kleine Estate, sehr nahe an der Stadt. 
+Mein Vater und Lord Hargoth sind seit längerem Freunde und spielen jedes Wochenende um die gleiche Uhrzeit Boccia (Ballspiel) in unserem Hinterhof.**
 
 ### Background: 
 - noblewoman 
-- knight of solamnia 
+- [[Knights of Solamnia]] 
 - trained for cavalry and command (offiziell eigentlich noch squire aber sie scheißt auf die regeln momentan) 
 
 ### Backstory, Prägende Erlebnisse:
@@ -53,7 +53,7 @@ Ketra verlässt kurz daraufhin Solanthus ohne Erlaubnis zusammen mit ihrem Pferd
  - Grandmaster Bravecrest in ihrer Aufgabe zu unterstützen
 
 ### Flaws, "Room to Grow" 
-Ketra ist aufmüpfig, oft in Situationen wo es einfach besser wäre, dass sie ihren Mund hält
+Ketra ist aufmüpfig, oft in Situationen wo es einfach besser wäre, dass sie ihren Mund hält.
 Ketra denkt sie hat das Recht darauf, dass ihre Taten anerkannt werden, sie denkt sie währe irgendwie wichtiger. Früher oder später wird sie realisieren müssen, dass es die Welt nicht interessiert wie "wichtig" du bist.<br>
 Ebenso denkt sie unterbewusst, dass die Anerkennung anderer ihr Wert geben würde.
 Ich würde sagen sie ist generell somewhat spoiled und hat eine zu hohe Meinung von sich selbst.
