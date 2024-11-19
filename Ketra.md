@@ -11,6 +11,7 @@ Name: **Ketra** :)
 - normale statur, vlt slightly klein für eine frau, aber recht sporty, da das tragen von medium-heavy armor standard training ist
 - rennt momentan in einer recht dreckigen rüstung der knights rum. Versteckt unter einem sehr landstreifermäßigen Mantel
 - Ist generell zu diesem Zeitpunkt recht ungewaschen und zerzaust/garstig, da ihr das Geld recht schnell ausgegangen ist xD
+- **Mein Wappen hat eine blaue Burgmauer mit rotem himmel, im vordergrund liegt eine Spindel mit weißem Garn. An der Spitze ein einziger Tropfen Blut**
 
 ### Herkunft: 
 **Stadt Hargoth**, wir haben eine kleine Estate, sehr nahe an der Stadt. 
