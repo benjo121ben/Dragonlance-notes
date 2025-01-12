@@ -6,10 +6,10 @@ Villy findet broken shit irgendeiner gottheit (Brancala), hat eine vision einer 
 Treffe einen alten mann mit weißem bart als ich unterkunft unter einem Stein suche. Er nennt sich Fiz, ist ein sehr exzentrischer Magier, fragt mich nach meinen Zielen. Er ist hier und dort und überall. Verschwindet als ich mich umdrehe.
 # Session 2 
 
-Die Opfer der Attacke waren Solamnic knights, sie hatten einen brief unterzeichnet von Mikhaela. Sie sollten die Angriffe von Lizardpeople untersuchen.
+Die Opfer der Attacke waren Solamnic knights, sie hatten einen brief unterzeichnet von [[Mikhaela]]. Sie sollten die Angriffe von Lizardpeople untersuchen.
 3 monde: Solinari, Lunitari, Nuitari.
-Sternzeichen von Tarkhisis und Paladine sind vom Himmel verschwunden
-Becklin, meine Tante, Burgbesitzerin in Vogler.
+Sternzeichen von [[Takhisis]] und [[Paladine]] sind vom Himmel verschwunden
+[[Becklin Uth Viharin|Becklin]], meine Tante, Burgbesitzerin in Vogler.
 Gorgeous george und Fancy not george sind die hummer an der Wand von Vinny's taverne.
 
 Tan -> hat begonnen Gnomschleuder auf dem Schlossturm von Vogler zu bauen
@@ -21,10 +21,10 @@ Darrett -> Page von Beklin, steht in ihrer Schuld, wurde als waise aufgenommen
 Schlacht war wichtig im Kampf gegen Istar. Lord Uth Vogler hat das Dorf an dem Ort der SChlacht begründet.
 
 # Session 3
-Tarkhisis Warband sitzt wenige Stunden von Vogler entfernt. Wir kämpfen mit einem kleinen Spähertrupp. Die Armee besteht aus Drachenähnlichen humanoiden Kreaturen.
+Takhisis Warband sitzt wenige Stunden von Vogler entfernt. Wir kämpfen mit einem kleinen Spähertrupp. Die Armee besteht aus Drachenähnlichen humanoiden Kreaturen.
 
 # Session 4
-[[Belephaion]], Stimme von Tarkhisis greift das Dorf an, laut dem Herold, aber wir treffen sie nicht an. Wir halten die Armee davon ab die letzten Flüchtlinge zu erreichen.
+[[Belephaion]], Stimme von Takhisis greift das Dorf an, laut dem Herold, aber wir treffen sie nicht an. Wir halten die Armee davon ab die letzten Flüchtlinge zu erreichen.
 Die Armee scheint fortgeschrittene Kriegsmaschinen zu verwenden die wie Drachen aussehen.
 3 Schatten stehen am Rande des Dorfes, sie tragen die Rüstungen der Ritter von Solamnia. Sie verschwinden wieder als ich mich umdrehe (Geister?)
 
