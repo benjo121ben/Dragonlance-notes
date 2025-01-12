@@ -45,3 +45,17 @@ Ich durchsuche die ganze Bibliothek nach Büchern über Takhisis. Ihre Armeen un
 Genaue Untersuchung des Buches "Abhandlungen der Untoten", Beschreibungen von solchen kreaturen, wie sie zurückkommen können.
 
 Wir bekämpfen ein Lumpenpack in einer Gasse, als wir auf dem Weg zum Duell mit [[Baccaris]] sind. Ich vermute, dass sie von [[Baccaris]] angeheuert wurden um uns abzuhalten oder auszuschalten.
+
+# Session 7
+Gewinne Duel gegen Baccaris' sohn.
+Nächster Tag, werden angestellt von Marshall Vendri angestellt Tatina Ruckledust, gnom Schmiedin aufzusuchen um mehr über die Kriegsmaschinen der Drachenarmee zu erfahren.
+
+Tatina hat unwissentlich die Drachen Kriegsmaschine für die Drachenarmee gebaut. Da Vinny sie vor das Konzil von Kalaman bringen will und ich dem Konzil nicht vertraue, lege ich eine niche Paragraphie der Solamnischen Ritter aus, um die Gnomin unter die Verantwortung der Solamnischen Ritter zu stellen, was bedeutet, dass Kalaman nicht über ihr Schicksal entscheiden darf. (Danke, unnötig komplizierte Rechtslage)
+
+Varis konnte druidischen Erwartungen nicht gerecht werden und war nur fähig grundlegende Transformationen seiner Hände und Zähne durchzuführen, Norik hat sein Geschäft verloren (ausgeraubt) und seine Schwertkunst auf seinen Reisen erlernt.
+
+In der Nähe von Solace (einer stadt im Süden) wurden Drachenähnliche Wesen gesichtet. Dies würde zusammenpassen mit den Bewegungen von Elfen gen Westen.
+
+Vinny erhät eine Nachricht von Brancala, die ihn ermutigen soll in einem Tempel den wir nach ein paar Nachforschungen aufgesucht haben.
+
+Wir retten einen Spähertrupp in der Nähe von Vogler und nehmen einen roten und gelben Drachen gefangen. Die Drachen Armee hat sich aufgeteilt um Solamnia von Kalaman zu isolieren.
