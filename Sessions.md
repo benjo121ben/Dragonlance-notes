@@ -38,7 +38,7 @@ Gudrune die Katze wird von [[Varis]] adoptiert
 Ich durchsuche die ganze Bibliothek nach Büchern über Takhisis. Ihre Armeen unterstehen damals jeweils einem Drachen. Wir haben die Rote-Drachen Armee angetroffen.
 [[Grandmaster Bravecrest]] war in [[Kalamann]] und hat sich dort in der Bibliothek einige Bücher angeschaut:
 - Chroniken über den Cataclysm
-- Karten und Informationen über das [[Dargaart]] Gebirge 
+- Karten und Informationen über das [[Dargaard Gebirge]] 
 - historische Aufzeichnungen von Nobelhäusern + Liegenschaften
 - Abhandlungen über die Untoten
 
