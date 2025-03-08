@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nightlund
+draft: true
 ---
 Was a province protected by [[Loren Soth]], but was inevitably destroyed in the wake of [[the Cataclysm]]
 

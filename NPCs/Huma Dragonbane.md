@@ -2,6 +2,7 @@
 tags:
   - History
   - NPC
+draft: true
 ---
 
 Near the end of the Third Dragon War, a Knight of the Crown named Huma of Eldor rose to prominence; his legend would become the best-known story of the Knighthood. The young knight spawned many stories, most of which cannot be verified. Regardless of which parts of his life are fiction and which are fact, Huma is the icon of knightly virtue to which most Solamnics look.

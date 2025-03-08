@@ -2,6 +2,7 @@
 tags:
   - NPC
   - History
+draft: true
 ---
 
 Lord Soth was the Protector of [[Knightlund]], a major province in eastern Solamnia, and the lord of [[Dargaard Keep]]. He was a highly **respected knight** and a powerful figure in Solamnia. He was also a good man who gave into temptation and lust and let it destroy him. While already married, he **fell in love with an elven priestess of Paladine** and, **breaking his vows to the Oath and Measure** as well as his own wedding vows, he seduced her. She became pregnant and he brought her back to Dargaard Keep to live with him. Exactly what happened to **Soth’s first wife is shrouded in mystery. Soth claims she died of natural causes**, though many speculated that he actually murdered her. Regardless, Soth’s first wife died, and he took the elven woman as his wife and made the child his legal heir.

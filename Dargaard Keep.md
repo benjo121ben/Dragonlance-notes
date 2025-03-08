@@ -1,3 +1,6 @@
+---
+draft: true
+---
 #Location 
 
 [[Loren Soth]]'s Schloss in [[Knightlund]]
