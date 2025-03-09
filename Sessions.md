@@ -99,3 +99,13 @@ Wir wandern nach Nightlund um dort zu investigaten, das Land ist großteils leer
 Da wir unsere Aufgabe hiermit erfüllt haben, reite ich mit dem Pferd so nahe wie möglich zurück an [[Kalamann]] und erfahren, dass [[Baccaris]] in der Absenz von [[Marshall Vendri]] zu einer Offensive gerufen hat und mit einem Großteil von Kalamanns Soldaten die Stadt verlassen haben.
 Wir entscheiden uns dementsprechend so schnell wie möglich nach [[Kalamann]] zurückzukehren.
 Eine Soldatin will mir einen Zettel übergeben, dann endet die Session
+
+# Session 10
+Nach kurzer rast in [[Kalamann]], ziehen wir [[Baccaris]]' armee nach, da [[Darret]] unsere hilfe angefordert hat. Wir kommen rechtzeitig um den Rückzug der Armee zu decken. Baccaris wurde scheinbar nicht verletzt, aber steht unter Schock, da sein Sohn im Kampf gefallen zu sein scheint. Aber sein Körper wurde nicht recovered. Darret und andere Kommmandanten konnten. 
+[[Vinnie]] informiert die Kommandanten über den wieder auferstandenen Soldaten. Alle Soldaten von denen angenommen wird, dass sie im Kampf starben, sollte festgenommen werden/untersucht werden.
+Eine Truppe von Solamnischen Rittern, [[Caradoc]] zusammen mit einem Duzent rittern scheinen in die Stadt eingezogen zu sein.
+Er und seine Skelettritter haben das Konzil getötet. Wir bekämpfen ihn und er scheint besessen gewesen zu sein.
+Caradoc wurde von einem Geist besessen, der [[Loren Soth]]'s Diener zu sein scheint.
+Er wollte verkünden, dass Soth Kalamann unterwerfen wird. Nightlund scheint wieder unter seiner Kontrolle zu sein.
+Eine Elfe (wahrscheinlich die Priesterin von Paladine die Soth zum Mann nahm) warnt uns etwas aus den Katakomben des Schlosses zu nehmen, Soth darf es nicht an sich nehmen.
+Wir bewegen uns durch die Gänge der Katakomben. Es scheint von den Rittern von Solamnia gebaut worden zu sein. Wir beobachten feurige Bilder, die uns die Geschichte von Soth erzählen.
