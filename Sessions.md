@@ -112,7 +112,16 @@ Wir bewegen uns durch die Gänge der Katakomben. Es scheint von den Rittern von 
 
 # Session 11
 Legen an der ostküste der northern wastes, sind auf der suche nach der stadt der verlorenen namen.
-Treffen auf Silvanesti Elfen Archeologen, welche uns ein paar locations geben, die wir untersuchen können
+Treffen auf Silvanesti Elfen Archeologen, welche uns ein paar locations geben, die wir untersuchen können. sie hätten ihre stadt verteidigen sollen, aber haben dies nicht geschafft, suchen nach alter magie
 - C - Blue Phoenix Shrine
 - D - Sunward Fortress
-- E - Waken Reth
+- E - Waken Reth - treffpunktmit dalamar
+- Stadt der verlorenen namen ist der Grund warum die Elfen da sind. Sie haben davon gelesen
+
+# Session 12
+Bei neumond/vollmond fluten die canyons
+In Sunward Fortress finden wir überbleibsel eines drachen camps und einen eingang.
+Es grüßt uns ein Altar von Sirion, gott der Kreativität
+Finden Elfen in der burg, Yerkal und menschen Rorn, aus einem camp vom Blauen Phoenix shrine, Vvirusa hat sie wieder eingefangen. 
+Rorn ist aus Hearts' hollow
+Killen Slaads im Keller
