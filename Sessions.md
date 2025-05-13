@@ -131,3 +131,4 @@ Killen Slaads im Keller
 Bewegen uns zum camp vom Yeral (Blauen Phoenix), wo ein Schrein zu Habakuk liegt
 Auf dem Weg spreche ich von Habamagogl, legendärer Goblin Magier der seinen Goldenen Schatz unter einem Regenbogen versteckt hat und daraufhin das Ende des Regenbogens verzaubert hat, damit ihn niemand je erreichen kann. Er wurde von Mikmadiggl, seinem Erzfeind getötet bevor er das Gold retrieven konnte.
 Wir bringen Yeral zurück und treffen Ishvern Stargazer. 
+Nachdem wir von Habakuk geblesst wurden, bewegen wir uns zu "Waken Reth", einem Turm der in seinem Zerfall magisch aufgehalten wird. Norik nimmt die Münzen welche als Opfergabe in den Turm gelegt wurden
