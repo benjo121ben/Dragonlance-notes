@@ -109,8 +109,9 @@ Caradoc wurde von einem Geist besessen, der [[Loren Soth]]'s Diener zu sein sche
 Er wollte verkünden, dass Soth Kalamann unterwerfen wird. Nightlund scheint wieder unter seiner Kontrolle zu sein.
 Eine Elfe (wahrscheinlich die Priesterin von Paladine die Soth zum Mann nahm) warnt uns etwas aus den Katakomben des Schlosses zu nehmen, Soth darf es nicht an sich nehmen.
 Wir bewegen uns durch die Gänge der Katakomben. Es scheint von den Rittern von Solamnia gebaut worden zu sein. Wir beobachten feurige Bilder, die uns die Geschichte von Soth erzählen.
-
 # Session 11
+Bekämpfen Ritter unter dem Schloss von Kalamann. Ketra stirbt. Wir werden in die Northern Wastes geschickt wo Soths Gefolgsmann hingezogen wurde
+# Session 12
 Legen an der ostküste der northern wastes, sind auf der suche nach der stadt der verlorenen namen.
 Treffen auf Silvanesti Elfen Archeologen, welche uns ein paar locations geben, die wir untersuchen können. sie hätten ihre stadt verteidigen sollen, aber haben dies nicht geschafft, suchen nach alter magie
 - C - Blue Phoenix Shrine
@@ -118,10 +119,15 @@ Treffen auf Silvanesti Elfen Archeologen, welche uns ein paar locations geben, d
 - E - Waken Reth - treffpunktmit dalamar
 - Stadt der verlorenen namen ist der Grund warum die Elfen da sind. Sie haben davon gelesen
 
-# Session 12
+# Session 13
 Bei neumond/vollmond fluten die canyons
 In Sunward Fortress finden wir überbleibsel eines drachen camps und einen eingang.
 Es grüßt uns ein Altar von Sirion, gott der Kreativität
 Finden Elfen in der burg, Yerkal und menschen Rorn, aus einem camp vom Blauen Phoenix shrine, Vvirusa hat sie wieder eingefangen. 
 Rorn ist aus Hearts' hollow
 Killen Slaads im Keller
+
+# Session 14
+Bewegen uns zum camp vom Yeral (Blauen Phoenix), wo ein Schrein zu Habakuk liegt
+Auf dem Weg spreche ich von Habamagogl, legendärer Goblin Magier der seinen Goldenen Schatz unter einem Regenbogen versteckt hat und daraufhin das Ende des Regenbogens verzaubert hat, damit ihn niemand je erreichen kann. Er wurde von Mikmadiggl, seinem Erzfeind getötet bevor er das Gold retrieven konnte.
+Wir bringen Yeral zurück und treffen Ishvern Stargazer. 
