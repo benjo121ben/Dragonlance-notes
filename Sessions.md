@@ -132,3 +132,17 @@ Bewegen uns zum camp vom Yeral (Blauen Phoenix), wo ein Schrein zu Habakuk liegt
 Auf dem Weg spreche ich von Habamagogl, legendärer Goblin Magier der seinen Goldenen Schatz unter einem Regenbogen versteckt hat und daraufhin das Ende des Regenbogens verzaubert hat, damit ihn niemand je erreichen kann. Er wurde von Mikmadiggl, seinem Erzfeind getötet bevor er das Gold retrieven konnte.
 Wir bringen Yeral zurück und treffen Ishvern Stargazer. 
 Nachdem wir von Habakuk geblesst wurden, bewegen wir uns zu "Waken Reth", einem Turm der in seinem Zerfall magisch aufgehalten wird. Norik nimmt die Münzen welche als Opfergabe in den Turm gelegt wurden
+
+# Session 15
+Finden im turm mehrere Geister und auf dem Turm ein Portal in den Feywild. 
+Es ist actually ein portal in den shadowfell und ein geist kleriker erzählt uns dass [[Loren Soth]] aus diesem Portal in die Material Plane gekommen ist. Kibby ist infiziert mit einer Affliction und Varis transportiert ihn zu den Elfen in der Hoffnung ihn zu retten, aber Kibby unterliegt seinen Verletzungen und stirbt über nacht.
+
+# Session 16
+
+Varis macht ein großes Feuerwerk mit Kibby's Asche. Er findet eine Truppe von Drachen-Armee soldaten, die darüber sprechen wie sie gezwungener Maßen in die Armee aufgenommen wurden und Kansaldi hat eine Zauberin und einen Priester in den Norden geschickt.
+G - community von menschen
+I - Gefängnis
+J - Magische Signatur zu der sich Dalamar bewegt
+K - Signatur der Stadt der verlorenen Namen
+
+Maara wird introduced und wir sneaken in ein gegnerisches Lager.
