@@ -146,3 +146,16 @@ J - Magische Signatur zu der sich Dalamar bewegt
 K - Signatur der Stadt der verlorenen Namen
 
 Maara wird introduced und wir sneaken in ein gegnerisches Lager.
+
+# Session 17 
+Enemy camp fight
+Drache kommt und slappt uns
+Wir fliehen mit Drachenei
+
+# Session 18
+Wir entscheiden und Bravecrest nach dem Ei zu fragen und bewegen uns weiter richtung community von meschen (G)
+Wir retten Clystran vor Spinnen und er führt uns zu [[Heart's Hollow]] wo wir mit Nezra, der Anführerin sprechen. Sie erzählt uns überraschend viel über Drachen und weicht Fragen über den Boden des Loches, der Namen der Stadt, oder warum sie so viel über Drachen weiß aus
+
+# Session 19
+Finden fizzling portal, bewacht von Steinstatue. Maara ist bei einen von denen aufgetaucht.
+Wir beginnen den angriff auf die Stadt von Soth.
