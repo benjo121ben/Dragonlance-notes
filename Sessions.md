@@ -109,3 +109,6 @@ Caradoc wurde von einem Geist besessen, der [[Loren Soth]]'s Diener zu sein sche
 Er wollte verkünden, dass Soth Kalamann unterwerfen wird. Nightlund scheint wieder unter seiner Kontrolle zu sein.
 Eine Elfe (wahrscheinlich die Priesterin von Paladine die Soth zum Mann nahm) warnt uns etwas aus den Katakomben des Schlosses zu nehmen, Soth darf es nicht an sich nehmen.
 Wir bewegen uns durch die Gänge der Katakomben. Es scheint von den Rittern von Solamnia gebaut worden zu sein. Wir beobachten feurige Bilder, die uns die Geschichte von Soth erzählen.
+
+# Session 11
+Wir bekämpfen einen lang begrabenen Ritter 
