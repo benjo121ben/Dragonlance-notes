@@ -159,8 +159,6 @@ Wir retten Clystran vor Spinnen und er führt uns zu [[Heart's Hollow]] wo wir m
 # Session 19
 Finden fizzling portal, bewacht von Steinstatue. Maara ist bei einen von denen aufgetaucht.
 Wir beginnen den angriff auf die Stadt von Soth.
-<<<<<<< Updated upstream
-=======
 
 # Session 20 
 Treffen eine Elfe, D, in Onyari. Die Stadt der verlorenenen Namen ist die ehemalig fliegende Hauptstadt von Istar. 
@@ -189,4 +187,3 @@ Ich halte einen letzten Trunk mit meinen ehemaligen Kumpanen während Norik sein
 
 # Session 27
 Wir verteidigen die Stadtmauer in einigen Skirmishes und gehen in den Wald um uns mit den Dragonellen zu treffen. 
->>>>>>> Stashed changes
