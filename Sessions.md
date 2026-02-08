@@ -159,3 +159,34 @@ Wir retten Clystran vor Spinnen und er führt uns zu [[Heart's Hollow]] wo wir m
 # Session 19
 Finden fizzling portal, bewacht von Steinstatue. Maara ist bei einen von denen aufgetaucht.
 Wir beginnen den angriff auf die Stadt von Soth.
+<<<<<<< Updated upstream
+=======
+
+# Session 20 
+Treffen eine Elfe, D, in Onyari. Die Stadt der verlorenenen Namen ist die ehemalig fliegende Hauptstadt von Istar. 
+Die Elfe sagt uns dass das Drachenei von einem Bronzedrachen ist, wir treffen ihn in einer Woche im Ödland.
+Wir sehen dann die komplette Stadt, die seitlich herabsinkend in einem Krater liegt.
+
+# Session 21
+Befreien Brek von einer Sklavenstation in der stadt und bewegen uns zum Tempel von Paladine wo ein Baumgeist namens Duskwalker den Tempel verteidigt.
+Wir werden von irgendwas unter Wasser im Tempel attackiert.
+
+# Session 22
+Holen lanze aus dem tempel
+
+# Session 23
+Bullshitten uns in den Turm im Zentrum der Stadt. Treffen den schwarzen Magier [[Lohezet]].
+An der Spitze des Turmes sitzt [[Belephaion]] 
+
+# Session 24 
+Pathbuilder ist down, wir skippen den Bossfight und rennen weg. Müssn [[Kalamann]] warnen und versuchen uns vorher mit dem Drachen zu treffen.
+
+# Session 25
+Bereiten uns auf den Angriff vor. Einige meiner Soldaten, Clover und Bella kommen in Kalamann an und berichten vom Tod der anderen. Unsere Dragonellen die der Drache versprochen hatte kommen an, aber wir brauchen mehr Verstärkung, um zur fliegenden Zitalle hochzufliegen.
+
+# Session 26
+Ich halte einen letzten Trunk mit meinen ehemaligen Kumpanen während Norik seine Familie zum ersten mal seit 15 Jahren besucht. Die Reaktion ist sehr gemixt, aber seine Schwester und Mutter vergeben ihm dafür, dass er wegging.
+
+# Session 27
+Wir verteidigen die Stadtmauer in einigen Skirmishes und gehen in den Wald um uns mit den Dragonellen zu treffen. 
+>>>>>>> Stashed changes
